@@ -16,5 +16,10 @@ An immersive and challenging reimagination of the traditional cup and ball game
 - M toggles music playing
 - ESC exits current games
 
+# Features
+- Innovative controls
+- Variation in ball colour
+- You can play literally forever
+
 ### Credits
 Code and music by me, image assets not by me
