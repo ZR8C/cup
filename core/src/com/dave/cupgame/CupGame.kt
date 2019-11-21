@@ -221,7 +221,7 @@ class CupScreen(val game: KtxGame<Screen>, skin: Skin) : KtxScreen, KtxInputAdap
     }
 
 
-    private val ballTexture = Texture(Gdx.files.internal("not_synch.gif"))
+//    private val ballTexture = Texture(Gdx.files.internal("not_synch.gif"))
 
     private fun createBall() {
         val pixmap = Pixmap(8 * 2, 8 * 2, Pixmap.Format.RGBA8888)
