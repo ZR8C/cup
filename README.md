@@ -1,4 +1,4 @@
-# Cup Game
+# Cup The Balls
 
 An immersive and challenging reimagination of the traditional cup and ball game
 
