@@ -6,11 +6,11 @@ An immersive and challenging reimagination of the traditional cup and ball game
 
 ## Preview
 
+# Desktop
+![animation_of_balls_being_cupped](https://i.imgur.com/er83N43.gif)
+
 # Android
 ![android screenshot](https://i.imgur.com/UVJcgy6.png)
-
-# Desktop
-![desktop screenshot](https://i.imgur.com/gShlNeA.png)
 
 ## PC Controls
 - M toggles music playing
