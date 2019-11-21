@@ -1,4 +1,6 @@
-# An immersive and challenging reimagination of the traditional cup and ball game
+# Cup Game
+
+An immersive and challenging reimagination of the traditional cup and ball game
 
 <img src="https://www.kiddymoo.co.uk/user/products/large/HOM-Wooden-Traditional-Cup-and-Ball-min.jpg" width="5%">
 
@@ -10,6 +12,5 @@
 - M toggles music playing
 - ESC exits current games
 
-### Music
-
-Music is made by me
+### Credits
+Code and music by me, image assets not by me
